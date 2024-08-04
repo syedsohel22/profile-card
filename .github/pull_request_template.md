@@ -15,7 +15,6 @@
 
 **Checklist before requesting a review.**
 
-- [ ] I have prefixed my PR with the JIRA ticket.
 - [ ] I have performed a self-review of my code.
 - [ ] I have added thorough tests.
 - [ ] I have checked that the PR does not introduce new warnings/errors
